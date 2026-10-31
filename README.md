@@ -95,7 +95,7 @@ Open `Smart Canopy Lift Inspection System.ipynb` and execute the notebook cells.
 ### Author
 **Janani S.**
 
-B.Tech Graduate – Artificial Intelligence and Machine Learning (2026)
+BE Graduate – Artificial Intelligence and Machine Learning (2026)
 
 **GitHub:** https://github.com/Janani1222
 
